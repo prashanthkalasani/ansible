@@ -1,5 +1,5 @@
 - name: ping the server
-   hosts: frontened # Which server you are connecting to
+   hosts: frontend # Which server you are connecting to
    # List of tasks/collections/modules
    tasks:
    - name: ping
