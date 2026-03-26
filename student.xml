@@ -1,0 +1,33 @@
+# <!-- List of student objects -->  
+<Students>
+# <!-- /Object -->
+<Student>
+    <Name>prashanth kalasani</Name>
+    <DOB>12-07-1997</DOB>
+    <Age>27</Age>
+    # <!-- List of objects -->
+    <Addresses>
+        # <!-- /Object -->
+        <Address type="PERM">
+            <DoorNo>4-12</DoorNo>
+            <Street>last Street</Street>
+            <PIN>521401</PIN>
+        </Address>
+        <Address> type="Current">
+            <DoorNo>1-381</DoorNo>
+            <Street>Banjara colony</Street>
+            <PIN>507203</PIN>
+        </Address>
+    </Addresses>
+    # <!-- List of String -->
+    <Skills>
+        <skill>Java</skill>
+        <skill>DevOps</skill>
+        <skill>Cloud</skill>
+    </Skills>
+</Student>
+
+</Students>
+    <Name>Naresh</Name>
+    <DOB>14-07-1998</DOB>
+    <Age>27</Age>

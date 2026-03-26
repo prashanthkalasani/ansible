@@ -1,0 +1,41 @@
+- name "prashanth kalasani m"
+  dob: "12-07-1997"
+  age: 27
+  addresses:
+    # object
+  - doorNo: 4-12
+    street: "last street"
+    city: gampalagudem
+    pin: 521401
+    type: current
+
+   - doorNo: 4-12
+    street: "last street"
+    city: gampalagudem
+    pin: 521401
+    type: perm
+  skill:
+  - java
+  - devops
+  - cloud
+
+  - name "prashanth kalasani m"
+  dob: "12-07-1997"
+  age: 27
+  addresses:
+    # object
+  - doorNo: 4-12
+    street: "last street"
+    city: gampalagudem
+    pin: 521401
+    type: current
+
+   - doorNo: 4-12
+    street: "last street"
+    city: gampalagudem
+    pin: 521401
+    type: perm
+  skill:
+  - java
+  - devops
+  - cloud
