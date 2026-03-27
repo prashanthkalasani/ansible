@@ -5,7 +5,7 @@
   - name: username
     prompt: what is your username?
     private: false
-  - name: username
+  - name: password
     prompt: what is your password?
     private: true
   tasks:
