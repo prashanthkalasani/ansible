@@ -15,3 +15,5 @@
       NAME: from task level
     ansible.builtin.debug:
       msg: "Name: {{ NAME }}"
+
+# 1. args or command line
